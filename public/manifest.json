@@ -1,0 +1,26 @@
+{
+  "name": "Daily News",
+  "short_name": "NewsApp",
+  "theme_color": "#054070",
+  "lang": "en-US",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": ".",
+  "start_url": "/",
+  "id": "/",
+
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icon192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon512.png",
+      "sizes": "512x512"
+    }
+  ]
+}
